@@ -1,0 +1,90 @@
+.header-container{
+    background-image: url(images/food/Project\ Cover4.png);
+    padding-bottom: 6%;
+    padding-top: 6%;
+    margin-bottom: 2%;
+    text-align: center;
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+.header-container img{
+    width: 100%;
+}
+
+.search-bar{
+    margin-right:auto;
+    margin-left:auto;
+    width: 500px;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+.grey-color{
+    color:rgb(63, 62, 62)
+}
+.orange-color{
+    color: orange;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width:  80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 500;
+    border-radius: 30px;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.about-us{
+    background-image: url(images/shapes/7.png);
+    display: flex;
+}
+
+.our-recipies{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.sample-recipies{
+    text-align:left;
+}
+.onethird-width{
+        width: 30%;
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-left: 1%;
+        margin-right: 1%;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 40px;
+    }
+.onethird-width img{
+    width:  100%;
+}
+.ftr-style{
+    background-color: black;
+    color: rgb(175, 175, 175);
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
